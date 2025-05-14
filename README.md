@@ -1,21 +1,21 @@
-# Steganographyx
+# DataCon
 
-# Steganographyx is an open source project you can contribute in it and can modify and update the new build. You can generate pull request in order to contribute in this project and make it more easy to use and more advanced for users.
+# DataCon is an open source project you can contribute in it and can modify and update the new build. You can generate pull request in order to contribute in this project and make it more easy to use and more advanced for users.
 
 
 To contribute to the Steganographyx repository, you can follow these steps and update the README file accordingly:
 
-# Contributing to Steganographyx
-Steganographyx is an open-source project, and we welcome contributions from the community to make it more user-friendly and advanced. Here's how you can contribute:
+# Contributing to DataCon
+DataCon is an open-source project, and we welcome contributions from the community to make it more user-friendly and advanced. Here's how you can contribute:
 
 # How to Contribute
 1. Fork the Repository:
-2. Go to the Steganographyx repository.
+2. Go to the DataCon repository.
 3. Click on the ```Fork``` button in the upper right corner to create your own copy of the repository.
 4. Clone your Fork:
 Clone the repository to your local machine using the following command:
 ```
-git clone https://github.com/your-username/Steganographyx.git
+git clone https://github.com/your-username/DataCon.git
 ```
 5. Install Dependencies Navigate to the cloned directory and install the required Python libraries:
 ```
@@ -42,15 +42,11 @@ git push origin master
 9. Go to your fork on GitHub and click on the "New Pull Request" button.
 10. Provide a meaningful title and description for your pull request.
 11. Submit the pull request.
-12. Project Structure- The Steganographyx project is organized into two main sections: Image Steganography and Wave Audio Steganography. Each section has its set of classes and methods:
+12. Project Structure- The DataCon project is organized into two main sections: Image Steganography and Wave Audio Steganography. Each section has its set of classes and methods:
 Image Steganography:
 
 Encode class: Handles encoding (hiding) secret messages within images.
 Decode class: Handles decoding (extracting) secret messages from images.
-Wave Audio Steganography:
-
-ExtractWaveGUI class: Provides a GUI for extracting hidden messages from wave audio files.
-HiddenWaveGUI class: Provides a GUI for hiding messages in wave audio files.
 
 # What is steganography?
 
@@ -67,7 +63,7 @@ To use Steganographyx, follow these steps:
 
 1. Clone the repository:
 ```
-git clone https://github.com/athrvadeshmukh/Steganographyx.git
+git clone https://github.com/vanshika1866/DataCon.git
 ```
 
 # Libraries
@@ -159,7 +155,7 @@ Feel free to reach out if you have any questions or need further assistance!
 
 
 # Licence 
-Copyright 2023 Athrva Deshmukh
+Copyright 2023 
 License
 
 Licensed under the Apache License, Version 2.0 (the "License");
